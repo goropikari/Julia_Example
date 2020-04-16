@@ -403,3 +403,10 @@ begin
 end
 
 print(tokenize("   \t  \t   \n\t\n     \t\t \t  \t\n\t\n  \n\n\n"))
+# (:push, "  ")
+# (:num, "72")
+# (:char_out, "\t\n  ")
+# (:push, "  ")
+# (:num, "105")
+# (:char_out, "\t\n  ")
+# (:exit, "\n\n\n")
